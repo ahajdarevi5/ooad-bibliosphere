@@ -1,0 +1,64 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+@model IEnumerable<BibliospherePRAVI1.Models.Knjiga>
+
+@{
+    ViewData["Title"] = "New Releases";
+}
+
+<style>
+    .book-container {
+        display: flex;
+        align-items: center;
+        margin-bottom: 20px;
+        background-color: #f7f7f7; /* Background color for each book */
+        padding: 20px; /* Add padding for spacing */
+        border-radius: 1px;
+    }
+
+    .book-image {
+        flex: 0 0 200px; /* Adjust width of the image */
+        margin-right: 20px;
+    }
+
+    .book-details {
+        flex: 1;
+    }
+</style>
+
+@if (User.IsInRole("User"))
+{
+    <h1>New Releases</h1>
+
+
+    <form method="get" asp-action="Index">
+        <p>
+            <input type="search" placeholder="Enter book name:" value="@ViewData["knjiga"]" name="bookSrch" style="width:700px" />
+            <input type="submit" value="Search" class="btn btn-primary" style="background-color:#416393; margin-left:15px; margin-right:15px" />
+            <a asp-action="Index">Get All Books</a>
+        </p>
+    </form>
+
+    @foreach (var item in Model)
+    {
+        <div class="book-container">
+            <div class="book-image">
+                <img src="/slike/@item.knjigaSlika" width="200" />
+            </div>
+            <div class="book-details">
+                <p><strong>ISBN:</strong> @Html.DisplayFor(modelItem => item.ISBN)</p>
+                <p><strong>Title:</strong> @Html.DisplayFor(modelItem => item.knjigaNaziv)</p>
+                <p><strong>Publish Date:</strong> @Html.DisplayFor(modelItem => item.datumObjavljivanjaKnj)</p>
+                <p><strong>Genre:</strong> @Html.DisplayFor(modelItem => item.vrstaKnjige)</p>
+                <p><strong>Publisher:</strong> @Html.DisplayFor(modelItem => item.izdavac.NazivIzdavaca)</p>
+                <!-- Add more details as needed -->
+                <a asp-action="Details" asp-route-id="@item.knjigaID" class="btn btn-secondary"> Details</a>
+            </div>
+        </div>
+    }
+}
+else
+{ }
+

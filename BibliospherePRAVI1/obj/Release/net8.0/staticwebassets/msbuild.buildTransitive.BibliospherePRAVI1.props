@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BibliospherePRAVI1.props" />
+</Project>

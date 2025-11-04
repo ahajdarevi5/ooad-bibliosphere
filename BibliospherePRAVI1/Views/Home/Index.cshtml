@@ -1,0 +1,103 @@
+﻿@{
+    ViewData["Title"] = "Homepage";
+}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+    .footer li a {
+        color: #444;
+        text-decoration: none;
+    }
+
+        .footer li a:hover {
+            color: #000;
+            text-decoration: underline;
+        }
+
+    .list-unstyled a:hover {
+        color: #000;
+        text-decoration: underline;
+    }
+
+    .hero-section {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 50px;
+        background-color: white;
+    }
+
+    .hero-content {
+        max-width: 50%;
+    }
+
+        .hero-content h1 {
+            font-size: 3rem;
+            font-weight: bold;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .hero-content p {
+            font-size: 1rem;
+            margin: 20px 0;
+        }
+
+        .hero-content .btn {
+            background-color: #f56342;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+
+    .hero-image img {
+        max-width: 70%;
+        height: auto;
+        align: right;
+    }
+</style>
+
+<div class="hero-section">
+    <div class="hero-content">
+        <h1>Book Library App</h1>
+        <p>Meet your next favorite book.</p>
+    </div>
+    <div class="hero-image">
+        <img src="~/images/pocetnaSlika.jpg" alt="Library Illustration" align="right" />
+    </div>
+</div>
+
+<footer class="border-top footer" style=" color: #444; display:inline-flex; min-width:100%">
+    <div class="container-fluid" style="padding-top: 40px;padding-left: 40px;padding-right: 40px;">
+        <div class="row">
+            <div class="col-md-4">
+                <h5>Company</h5>
+                <ul class="list-unstyled" style="text-decoration:none">
+                    <li><a asp-area="" asp-controller="Home" asp-action="AboutUs">About Us</a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="ContactUs">Contact Us</a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="Privacy Policy">Privacy Policy</a></li>
+                </ul>
+            </div>
+            <div class="col-md-4">
+                <h5>Connect</h5>
+                <ul class="list-unstyled">
+                    <a href="#" class="fa fa-facebook" style="margin-right:10px; height:15px; width:15px;  color: #444; text-decoration: none;"></a>
+                    <a href="#" class="fa fa-twitter" style="margin-right:10px; color: #444; text-decoration: none;"></a>
+                    <a href="#" class="fa fa-instagram" style="margin-right:10px; color: #444; text-decoration: none;"></a>
+                </ul>
+            </div>
+            <div class="col-md-4">
+                <h5>Contact</h5>
+                <ul class="list-unstyled">
+                    <li>Email: info@bibliosphere.com</li>
+                    <li>Phone: +123 456 7890</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+

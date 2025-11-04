@@ -1,0 +1,66 @@
+﻿@model BibliospherePRAVI1.Models.Knjiga
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+@if (User.IsInRole("Admin") || User.IsInRole("Customer Service"))
+{
+    <h1>Add A New Book </h1>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Create" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="ISBN" class="control-label"></label>
+                    <input asp-for="ISBN" class="form-control" />
+                    <span asp-validation-for="ISBN" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="knjigaNaziv" class="control-label"></label>
+                    <input asp-for="knjigaNaziv" class="form-control" />
+                    <span asp-validation-for="knjigaNaziv" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="datumObjavljivanjaKnj" class="control-label"></label>
+                    <input asp-for="datumObjavljivanjaKnj" class="form-control" />
+                    <span asp-validation-for="datumObjavljivanjaKnj" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="vrstaKnjige" class="control-label"></label>
+                    <select asp-for="vrstaKnjige" class="form-control" asp-items="Html.GetEnumSelectList<VrstaKnjige>()"></select>
+                    <span asp-validation-for="vrstaKnjige" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ImageFileB" class="control-label"></label>
+                    <input asp-for="ImageFileB" class="form-control" type="file" />
+                    <span asp-validation-for="ImageFileB" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ImageFile" class="control-label"></label>
+                    <input asp-for="ImageFile" class="form-control" type="file" />
+                    <span asp-validation-for="ImageFile" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="izdavacID" class="control-label"></label>
+                    <select asp-for="izdavacID" class="form-control" asp-items="ViewBag.izdavacID"></select>
+                </div>
+                <div class="form-group" style="margin-top:30px;">
+                    <input type="submit" value="Create" class="btn btn-primary" style="background-color:#416393" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <a asp-action="Index">Back to List</a>
+    </div>
+}
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+

@@ -1,0 +1,61 @@
+﻿@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+
+@model BibliospherePRAVI1.Models.Autor
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+@if (User.IsInRole("Admin") || User.IsInRole("Customer Service"))
+{
+    <h1>Create</h1>
+
+    <h4>Author</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Create" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="autorIme" class="control-label"></label>
+                    <input asp-for="autorIme" class="form-control" />
+                    <span asp-validation-for="autorIme" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="autorPrezime" class="control-label"></label>
+                    <input asp-for="autorPrezime" class="form-control" />
+                    <span asp-validation-for="autorPrezime" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ImageFile" class="control-label"></label>
+                    <input asp-for="ImageFile" class="form-control" type="file" />
+                    <span asp-validation-for="ImageFile" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="autorDatumRod" class="control-label"></label>
+                    <input asp-for="autorDatumRod" class="form-control" />
+                    <span asp-validation-for="autorDatumRod" class="text-danger"></span>
+                </div>
+                <div class="form-group" style="margin-top:30px;">
+                    <input type="submit" value="Create" class="btn btn-primary" style="background-color:#416393" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <a asp-action="Index">Back to List</a>
+    </div>
+}
+else
+{ }
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

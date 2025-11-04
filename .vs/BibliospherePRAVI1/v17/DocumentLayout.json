@@ -1,0 +1,1239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\views\\reading\\read.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\views\\reading\\read.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\models\\bookreadingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\models\\bookreadingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\controllers\\readingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\controllers\\readingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\wwwroot\\books\\1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\wwwroot\\books\\1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\views\\knjiga\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\views\\knjiga\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\models\\knjigadetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\models\\knjigadetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\controllers\\knjigacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\controllers\\knjigacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\views\\knjiga\\mylibrary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\views\\knjiga\\mylibrary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\models\\knjigakorisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\models\\knjigakorisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\models\\vrstaliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\models\\vrstaliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\views\\knjiga\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\views\\knjiga\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\models\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\models\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\views\\knjiga\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\views\\knjiga\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\models\\knjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\models\\knjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\views\\home\\readingdiary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\views\\home\\readingdiary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\views\\autor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\views\\autor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\views\\autor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\views\\autor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\views\\autor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\views\\autor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\views\\knjiga\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\views\\knjiga\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\views\\knjiga\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\views\\knjiga\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\views\\reports\\sedmicniizvjestaj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\views\\reports\\sedmicniizvjestaj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\views\\reports\\godisnjiizvjestaj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\views\\reports\\godisnjiizvjestaj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\views\\reports\\mjesecniizvjestaj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\views\\reports\\mjesecniizvjestaj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\models\\recenzija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\models\\recenzija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\models\\izdavac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\models\\izdavac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\source\\repos\\BibliospherePRAVI1\\BibliospherePRAVI1\\Data\\Migrations\\20240611102600_zadnja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\models\\autor_knjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\models\\autor_knjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\views\\autor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\views\\autor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\views\\autor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\views\\autor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\source\\repos\\BibliospherePRAVI1\\BibliospherePRAVI1\\Data\\Migrations\\20240611101126_autorId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\source\\repos\\BibliospherePRAVI1\\BibliospherePRAVI1\\Data\\Migrations\\20240611095728_autorIddodala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\wwwroot\\images\\email2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\wwwroot\\images\\email2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\models\\vrstaknjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\models\\vrstaknjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\models\\vrstaizvjestaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\models\\vrstaizvjestaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\models\\sedmicniizvjestaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\models\\sedmicniizvjestaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\models\\mjesecniizvjestaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\models\\mjesecniizvjestaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\models\\isearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\models\\isearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\models\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\models\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\models\\iknjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\models\\iknjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\models\\iizvjestaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\models\\iizvjestaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\models\\ifiltering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\models\\ifiltering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\models\\godisnjiizvjestaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\models\\godisnjiizvjestaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\models\\bridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\models\\bridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|c:\\users\\dzana\\source\\repos\\bibliospherepravi\\bibliospherepravi1\\data\\migrations\\20240611105003_drugamigracija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A482C5-A108-42E3-A205-9547CD411066}|BibliospherePRAVI1\\BibliospherePRAVI1.csproj|solutionrelative:bibliospherepravi1\\data\\migrations\\20240611105003_drugamigracija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Read.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Reading\\Read.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Views\\Reading\\Read.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Reading\\Read.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Views\\Reading\\Read.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T20:30:14.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReadingController.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Controllers\\ReadingController.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Controllers\\ReadingController.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Controllers\\ReadingController.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Controllers\\ReadingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:26:50.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookReadingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\BookReadingViewModel.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Models\\BookReadingViewModel.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\BookReadingViewModel.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Models\\BookReadingViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:24:05.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "1.txt",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\wwwroot\\books\\1.txt",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\wwwroot\\books\\1.txt",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\wwwroot\\books\\1.txt",
+              "RelativeToolTip": "BibliospherePRAVI1\\wwwroot\\books\\1.txt",
+              "ViewState": "AQIAAB4QAAAAAAAAAAAAACwQAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-12T20:11:51.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KnjigaKorisnik.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\KnjigaKorisnik.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Models\\KnjigaKorisnik.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\KnjigaKorisnik.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Models\\KnjigaKorisnik.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:03:23.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KnjigaController.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Controllers\\KnjigaController.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Controllers\\KnjigaController.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Controllers\\KnjigaController.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Controllers\\KnjigaController.cs",
+              "ViewState": "AQIAAD4BAAAAAAAAAAAUwFMBAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:02:25.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Knjiga\\Details.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Views\\Knjiga\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Knjiga\\Details.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Views\\Knjiga\\Details.cshtml",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAH0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T20:03:49.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwFEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:35:00.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyLibrary.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Knjiga\\MyLibrary.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Views\\Knjiga\\MyLibrary.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Knjiga\\MyLibrary.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Views\\Knjiga\\MyLibrary.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T17:55:39.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\Autor.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Models\\Autor.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\Autor.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Models\\Autor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:27:11.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KnjigaDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\KnjigaDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Models\\KnjigaDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\KnjigaDetailsViewModel.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Models\\KnjigaDetailsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:05:58.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VrstaListe.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\VrstaListe.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Models\\VrstaListe.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\VrstaListe.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Models\\VrstaListe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:34:36.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Program.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Program.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Program.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAC0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:35:50.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T09:47:25.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Korisnik.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\Korisnik.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Models\\Korisnik.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\Korisnik.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Models\\Korisnik.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:32:28.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Knjiga\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Views\\Knjiga\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Knjiga\\Edit.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Views\\Knjiga\\Edit.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAswC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T20:04:08.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Knjiga\\Index.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Views\\Knjiga\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Knjiga\\Index.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Views\\Knjiga\\Index.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAEoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T20:04:19.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Knjiga.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\Knjiga.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Models\\Knjiga.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\Knjiga.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Models\\Knjiga.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:31:29.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:34:23.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Controllers\\AutorController.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Controllers\\AutorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAM0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:35:26.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Controllers\\ReportsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:37:26.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T12:17:41.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T12:18:46.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAuwMIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:15:44.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:22:28.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T12:22:29.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:26:17.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T12:07:38.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T12:15:29.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "BibliospherePRAVI1\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-10T10:07:34.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ManageNavPages.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:19:38.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Autor\\Index.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Views\\Autor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Autor\\Index.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Views\\Autor\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEIAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T09:37:30.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Knjiga\\Create.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Views\\Knjiga\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Knjiga\\Create.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Views\\Knjiga\\Create.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T20:03:10.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Knjiga\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Views\\Knjiga\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Knjiga\\Delete.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Views\\Knjiga\\Delete.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T20:03:33.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Autor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Views\\Autor\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Autor\\Edit.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Views\\Autor\\Edit.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T09:37:15.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Autor\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Views\\Autor\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Autor\\Delete.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Views\\Autor\\Delete.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T09:36:40.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ReadingDiary.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Home\\ReadingDiary.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Views\\Home\\ReadingDiary.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Home\\ReadingDiary.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Views\\Home\\ReadingDiary.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T09:39:29.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SedmicniIzvjestaj.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Reports\\SedmicniIzvjestaj.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Views\\Reports\\SedmicniIzvjestaj.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Reports\\SedmicniIzvjestaj.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Views\\Reports\\SedmicniIzvjestaj.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T11:46:42.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GodisnjiIzvjestaj.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Reports\\GodisnjiIzvjestaj.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Views\\Reports\\GodisnjiIzvjestaj.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Reports\\GodisnjiIzvjestaj.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Views\\Reports\\GodisnjiIzvjestaj.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T11:39:05.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MjesecniIzvjestaj.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Reports\\MjesecniIzvjestaj.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Views\\Reports\\MjesecniIzvjestaj.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Reports\\MjesecniIzvjestaj.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Views\\Reports\\MjesecniIzvjestaj.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T11:46:12.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Recenzija.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\Recenzija.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Models\\Recenzija.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\Recenzija.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Models\\Recenzija.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:33:12.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T09:39:08.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T09:38:02.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20240611105003_DrugaMigracija.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Data\\Migrations\\20240611105003_DrugaMigracija.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Data\\Migrations\\20240611105003_DrugaMigracija.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Data\\Migrations\\20240611105003_DrugaMigracija.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Data\\Migrations\\20240611105003_DrugaMigracija.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:50:03.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAANMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:49:09.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAIcCAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:34:26.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20240611102600_zadnja.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BibliospherePRAVI1\\BibliospherePRAVI1\\Data\\Migrations\\20240611102600_zadnja.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\PC\\source\\repos\\BibliospherePRAVI1\\BibliospherePRAVI1\\Data\\Migrations\\20240611102600_zadnja.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BibliospherePRAVI1\\BibliospherePRAVI1\\Data\\Migrations\\20240611102600_zadnja.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\PC\\source\\repos\\BibliospherePRAVI1\\BibliospherePRAVI1\\Data\\Migrations\\20240611102600_zadnja.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAACIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:26:00.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Autor_Knjiga.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\Autor_Knjiga.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Models\\Autor_Knjiga.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\Autor_Knjiga.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Models\\Autor_Knjiga.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:18:20.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Izdavac.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\Izdavac.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Models\\Izdavac.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\Izdavac.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Models\\Izdavac.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:31:11.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Autor\\Details.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Views\\Autor\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Autor\\Details.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Views\\Autor\\Details.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAewCwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T09:36:51.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Autor\\Create.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Views\\Autor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Autor\\Create.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Views\\Autor\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T09:36:28.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20240611101126_autorId.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BibliospherePRAVI1\\BibliospherePRAVI1\\Data\\Migrations\\20240611101126_autorId.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\PC\\source\\repos\\BibliospherePRAVI1\\BibliospherePRAVI1\\Data\\Migrations\\20240611101126_autorId.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BibliospherePRAVI1\\BibliospherePRAVI1\\Data\\Migrations\\20240611101126_autorId.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\PC\\source\\repos\\BibliospherePRAVI1\\BibliospherePRAVI1\\Data\\Migrations\\20240611101126_autorId.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:11:27.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20240611095728_autorIddodala.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BibliospherePRAVI1\\BibliospherePRAVI1\\Data\\Migrations\\20240611095728_autorIddodala.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\PC\\source\\repos\\BibliospherePRAVI1\\BibliospherePRAVI1\\Data\\Migrations\\20240611095728_autorIddodala.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BibliospherePRAVI1\\BibliospherePRAVI1\\Data\\Migrations\\20240611095728_autorIddodala.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\PC\\source\\repos\\BibliospherePRAVI1\\BibliospherePRAVI1\\Data\\Migrations\\20240611095728_autorIddodala.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:57:29.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T12:13:40.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "RegisterConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAowA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:07:38.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAowCkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T09:38:31.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "email2.jpg - Bitmap [360x360, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\wwwroot\\images\\email2.jpg",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\wwwroot\\images\\email2.jpg",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\wwwroot\\images\\email2.jpg - Bitmap [360x360, 24 bit, JPG]",
+              "RelativeToolTip": "BibliospherePRAVI1\\wwwroot\\images\\email2.jpg - Bitmap [360x360, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-10T12:38:40.66Z",
+              "EditorCaption": " - Bitmap [360x360, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T12:07:38.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T10:23:10.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T10:39:44.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T10:03:17.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T10:03:15.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T09:47:39.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "BibliospherePRAVI1\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T09:47:31.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "VrstaKnjige.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\VrstaKnjige.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Models\\VrstaKnjige.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\VrstaKnjige.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Models\\VrstaKnjige.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:34:13.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "VrstaIzvjestaja.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\VrstaIzvjestaja.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Models\\VrstaIzvjestaja.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\VrstaIzvjestaja.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Models\\VrstaIzvjestaja.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:33:57.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "SedmicniIzvjestaj.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\SedmicniIzvjestaj.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Models\\SedmicniIzvjestaj.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\SedmicniIzvjestaj.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Models\\SedmicniIzvjestaj.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:33:34.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "MjesecniIzvjestaj.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\MjesecniIzvjestaj.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Models\\MjesecniIzvjestaj.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\MjesecniIzvjestaj.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Models\\MjesecniIzvjestaj.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:32:49.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "iSearch.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\iSearch.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Models\\iSearch.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\iSearch.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Models\\iSearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:30:53.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "iObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\iObserver.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Models\\iObserver.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\iObserver.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Models\\iObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:30:23.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "iKnjiga.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\iKnjiga.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Models\\iKnjiga.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\iKnjiga.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Models\\iKnjiga.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:30:07.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "iIzvjestaj.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\iIzvjestaj.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Models\\iIzvjestaj.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\iIzvjestaj.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Models\\iIzvjestaj.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:29:43.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "iFIltering.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\iFIltering.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Models\\iFIltering.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\iFIltering.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Models\\iFIltering.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:29:26.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "GodisnjiIzvjestaj.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\GodisnjiIzvjestaj.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Models\\GodisnjiIzvjestaj.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\GodisnjiIzvjestaj.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Models\\GodisnjiIzvjestaj.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:29:05.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Bridge.cs",
+              "DocumentMoniker": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\Bridge.cs",
+              "RelativeDocumentMoniker": "BibliospherePRAVI1\\Models\\Bridge.cs",
+              "ToolTip": "C:\\Users\\Dzana\\source\\repos\\BibliospherePRAVI\\BibliospherePRAVI1\\Models\\Bridge.cs",
+              "RelativeToolTip": "BibliospherePRAVI1\\Models\\Bridge.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:28:42.304Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

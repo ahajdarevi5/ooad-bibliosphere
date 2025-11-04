@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BibliospherePRAVI1.props" />
+</Project>

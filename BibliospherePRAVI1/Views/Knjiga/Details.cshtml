@@ -1,0 +1,218 @@
+﻿@model KnjigaDetailsViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+<style>
+    .message-box {
+        position: fixed;
+        z-index: 9999;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+        background-color: rgba(0, 0, 0, 0.4);
+    }
+
+    .message-content {
+        background-color: #fefefe;
+        margin: 15% auto;
+        padding: 20px;
+        border: 1px solid #888;
+        width: 80%;
+        text-align: center;
+        border-radius: 5px;
+    }
+
+    .close {
+        color: #aaa;
+        float: right;
+        font-size: 28px;
+        font-weight: bold;
+    }
+
+        .close:hover,
+        .close:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+        }
+</style>
+
+
+
+
+
+<h1>Book details</h1>
+<div class="row">
+    <div class="col-md-4">
+        <img src="@Url.Content("~/slike/" + Model.Knjiga.knjigaSlika)" alt="Book Image" style="max-width:200px;" />
+    </div>
+    <div class="col-md-8">
+        <dl class="row">
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.Knjiga.ISBN)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Knjiga.ISBN)
+            </dd>
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.Knjiga.knjigaNaziv)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Knjiga.knjigaNaziv)
+            </dd>
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.Knjiga.datumObjavljivanjaKnj)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Knjiga.datumObjavljivanjaKnj)
+            </dd>
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.Knjiga.vrstaKnjige)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Knjiga.vrstaKnjige)
+            </dd>
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.Knjiga.knjigaBarKod)
+            </dt>
+            <dd class="col-sm-9">
+                <img src="@Url.Content("~/barkodovi/" + Model.Knjiga.knjigaBarKod)" alt="Book Barcode" style="max-width:200px;" />
+            </dd>
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.Knjiga.izdavac)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Knjiga.izdavac.NazivIzdavaca)
+            </dd>
+            <dt class="col-sm-3">
+                Authors:
+            </dt>
+            <dd class="col-sm-9" style="text-align: left; margin-left:-32px;">
+                <ul>
+                    @foreach (var autorKnjiga in Model.Knjiga.AutorKnjiga)
+                    {
+                        <li>
+                            @autorKnjiga.Autor.autorIme
+                            <span>@autorKnjiga.Autor.autorPrezime</span>
+                        </li>
+                    }
+                </ul>
+            </dd>
+        </dl>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        @if (User.IsInRole("Admin") || User.IsInRole("Customer Service"))
+        {
+            <a asp-action="Edit" asp-route-id="@Model.Knjiga.knjigaID" class="btn btn-primary" style="margin-top:20px;background-color:#416393;">Edit</a>
+        }
+        <a asp-action="Index" class="btn btn-secondary" style="margin-top:20px;">Back to List</a>
+        @if (User.IsInRole("User"))
+        {
+            @if (!Model.IsInReadList)
+            {
+                <button id="addToReadButton" class="btn btn-primary" style="margin-top:20px;background-color:#416393; color:white" onclick="addToRead()">Add to Read</button>
+            }
+            @if (Model.IsInReadList)
+            {
+                <a asp-action="Read" asp-controller="Reading" asp-route-bookId="@Model.Knjiga.knjigaID" class="btn btn-primary" style="margin-top:20px;background-color:#416393; color:white">Read</a>
+            }
+            <a asp-action="Details" class="btn btn-secondary" style="margin-top:20px;background-color:#416393; color:white">Add to Favorites</a>
+        }
+    </div>
+</div>
+
+<hr />
+<h2>Reviews</h2>
+<div>
+
+    @if (Model.Recenzije != null && Model.Recenzije.Any())
+    {
+        <ul>
+            @foreach (var recenzija in Model.Recenzije)
+            {
+                <li>
+                    <strong>Rating:</strong> @recenzija.Ocjena<br />
+                    <strong>Comment:</strong> @recenzija.Komentar<br />
+                    <strong>User:</strong> @recenzija.korisnik.UserName
+                    @if (User.IsInRole("Admin") || User.IsInRole("Customer Service"))
+                    {
+                        <form asp-action="DeleteReview" method="post" style="display:inline;">
+                            <input type="hidden" name="reviewId" value="@recenzija.ID" />
+                            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                        </form>
+                    }
+                </li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p>No reviews available.</p>
+    }
+</div>
+
+@if (User.IsInRole("User"))
+{
+    <div>
+        <h3>Leave a Review</h3>
+        <form asp-action="LeaveReview" method="post">
+            <div class="form-group">
+                <label asp-for="NovaRecenzija.Ocjena" class="control-label">Grade (1-5):</label>
+                <input asp-for="NovaRecenzija.Ocjena" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="NovaRecenzija.Komentar" class="control-label">Comment:</label>
+                <textarea asp-for="NovaRecenzija.Komentar" class="form-control"></textarea>
+            </div>
+            <input type="hidden" asp-for="NovaRecenzija.KnjigaID" value="@Model.Knjiga.knjigaID" />
+            <button type="submit" class="btn btn-primary" style="margin-top:20px;background-color:#416393">Submit</button>
+        </form>
+    </div>
+}
+<div id="messageBox" style="display:none; position:fixed; top:10%; left:50%; transform:translate(-50%, -50%); padding:20px; background-color:#416393; color:white; border-radius:5px; z-index:1000;"></div>
+
+@section Scripts {
+    <script>
+        function addToRead() {
+            var bookId = @Model.Knjiga.knjigaID;
+
+            $.ajax({
+                url: '/Knjiga/AddToRead',
+                type: 'POST',
+                data: { bookId: bookId },
+                success: function (response) {
+                    if (response.success) {
+                        showMessageBox("The book has been added to your read list.");
+                    } else {
+                        showMessageBox("The book is already in your read list.");
+                    }
+                },
+                error: function (xhr, status, error) {
+                    console.error(xhr.responseText);
+                    alert('Error adding book to read list. Please try again later.');
+                }
+            });
+        }
+
+        function showMessageBox(message) {
+            var messageBox = document.getElementById("messageBox");
+            messageBox.innerText = message;
+            messageBox.style.display = "block";
+            setTimeout(closeMessageBox, 5000);
+        }
+
+        function closeMessageBox() {
+            var messageBox = document.getElementById("messageBox");
+            messageBox.style.display = "none";
+        }
+    </script>
+
+}

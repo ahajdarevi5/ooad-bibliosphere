@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Title"] = "Contact Us";
+}
+<head>
+    <link rel="stylesheet" href="./css/bootstrap/bootstrap.min.css" />
+</head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+    .contact-info {
+        background-color: #f4f4f4;
+        padding: 20px;
+        max-width: 400px;
+        margin: 0 auto;
+        border: 1px solid #ccc; /* Add this line for the gray border */
+        border-radius: 2px; /* Optional: keep the border-radius for rounded corners */
+    }
+
+
+        .contact-info h5 {
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+            padding-left: 15px;
+        }
+
+        .contact-info ul {
+            list-style: none;
+            padding: 0;
+            padding-left: 15px;
+        }
+
+        .contact-info li {
+            margin: 10px 0;
+            display: flex;
+            align-items: center;
+        }
+
+            .contact-info li i {
+                margin-right: 10px;
+                font-size: 1.2rem;
+                color: #444;
+            }
+
+</style>
+<body>
+    <div class="contact-info">
+        <h5>Contact Us</h5>
+        <ul class="list-unstyled">
+            <li><i class="fa fa-envelope"></i>info@bibliosphere.com</li>
+            <li><i class="fa fa-phone"></i>+123 456 7890</li>
+            <li><i class="fa fa-clock-o"></i>09.00h - 17.00h</li>
+        </ul>
+    </div>
+</body>

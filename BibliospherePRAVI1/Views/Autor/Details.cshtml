@@ -1,0 +1,59 @@
+﻿@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+@model BibliospherePRAVI1.Models.Autor
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Author details</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <img src="@Url.Content("~/autori/" + Model.autorSlika)" alt="Author Image" style="max-width:200px;" />
+    </div>
+    <div class="col-md-8">
+        <dl class="row">
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.autorIme)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.autorIme)
+            </dd>
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.autorPrezime)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.autorPrezime)
+            </dd>
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.autorDatumRod)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.autorDatumRod)
+            </dd>
+            <dt class="col-sm-3">
+                Books:
+            </dt>
+            <dd class="col-sm-9">
+                <ul>
+                    @foreach (var autorKnjiga in Model.AutorKnjiga)
+                    {
+                        <li>@autorKnjiga.Knjiga.knjigaNaziv</li>
+                    }
+                </ul>
+            </dd>
+        </dl>
+    </div>
+</div>
+
+<div>
+    @if (User.IsInRole("Admin") || User.IsInRole("Customer Service"))
+    {
+        <a asp-action="Edit" asp-route-id="@Model?.autorID" class="btn btn-primary" style="margin-top:20px;background-color:#416393;">Edit</a>
+    }
+    <a asp-action="Index" class="btn btn-secondary" style="margin-top:20px;">Back to List</a>
+</div>

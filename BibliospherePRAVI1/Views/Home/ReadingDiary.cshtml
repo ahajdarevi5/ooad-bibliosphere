@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Reading Diary";
+}
+@{
+    ViewData["Title"] = "Reading Diary";
+}
+
+@if (User.IsInRole("User"))
+{
+    <h3>Choose report:</h3>
+ 
+            <a asp-controller="Reports" asp-action="GodisnjiIzvjestaj" style="margin-top:15px;" class="btn btn-secondary">Annual Report</a>
+       
+            <a asp-controller="Reports" asp-action="MjesecniIzvjestaj" style="margin-top:15px;" class="btn btn-secondary">Monthly Report</a>
+        
+            <a asp-controller="Reports" asp-action="SedmicniIzvjestaj" style="margin-top:15px;" class="btn btn-secondary">Weekly Report</a>
+        
+}
+else
+{
+    <p>You do not have access to view this section.</p>
+}
+
+
+
